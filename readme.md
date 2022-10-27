@@ -17,4 +17,4 @@ The code in this repository is part of deliverable D29 of [MSP-MED Project] (htt
 - *msp_emodnet_uses.csv* this file extend the use list of uses of Italian MSP plan
 
 References:
-- [GUIDE FOR THE EMODNET MARINE SPATIAL PLANNING DATA MODEL avaliable at EMODnet ingestion portal: (https://www.emodnet-ingestion.eu/media/emodnet_ingestion/org/documents/emodnet_data_model_guide_for_msp_wkpaper_08_02_21.pdf)
+- **GUIDE FOR THE EMODNET MARINE SPATIAL PLANNING DATA MODEL avaliable at EMODnet ingestion portal**: https://www.emodnet-ingestion.eu/media/emodnet_ingestion/org/documents/emodnet_data_model_guide_for_msp_wkpaper_08_02_21.pdf
