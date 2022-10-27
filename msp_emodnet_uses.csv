@@ -1,0 +1,19 @@
+code,emodnet,emo_desc,hilucs,hilucsmsp,complete
+100,Fishing areas ,Planning units primary addressed to fishery,https://inspire.ec.europa.eu/codelist/HILUCSValue/1_4_2_ProfessionalFishing,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/1_4_2_ProfessionalFishing.html,yes
+1500,Aquaculture,Planning units primary addressed to aquaculture,https://inspire.ec.europa.eu/codelist/HILUCSValue/1_4_1_Aquaculture,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/1_4_1_1_AquacultureSeaWater.html,yes
+200,Maritime Traffic flows,Planning units ,https://inspire.ec.europa.eu/codelist/HILUCSValue/4_1_4_WaterTransport,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/4_1_6_MarineTrafficLanes.html,
+300,Nature Protection Conservation,Nature Protection Conservation,,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/6_7_1_MarineProtectedArea.html,no
+400,,Energy related planning units,,,
+410,Ocean Energy Facilities,Renewable energy,https://inspire.ec.europa.eu/codelist/HILUCSValue/2_4_4_RenewableEnergyProduction,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/2_4_4_RenewableEnergyProduction.html,no
+420,"Oil and Gas
+Extraction",Areas that are corrently used by Oil and Gas extraction infrastructures,https://inspire.ec.europa.eu/codelist/HILUCSValue/1_3_1_MiningOfEnergyProducingMaterials,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/1_3_1_MiningOfEnergyProducingMaterials.html,
+500,Raw material extraction,,http://inspire.ec.europa.eu/codelist/HILUCSValue/1_3_3_OtherMiningAndQuarrying,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/1_3_3_OtherMiningAndQuarrying.html,no
+600,Military areas,Military training areas,,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/6_8_MilitarArea.html,yes
+700,Tourism and recreation,Tourism and recreation,,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/3_4_6_3_CoastalTourism.html,no
+1000,Cultural heritage,"Landscape and cultural heritage (visibile, underwater or immaterial) protection is prioritary in this areas",,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/3_4_7_UnderwaterCulturalHeritage.html,no
+1400,Scientific research,Scientific research,,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/3_2_2_ProfessionalTechnicalAndScientificServices.html,no
+1300,,,,,no
+1200,,,,,no
+1100,,,,,no
+900,Cables,cables,,http://www.geoportal.ulpgc.es/registro/plannedLandUse/HilucsExt/4_3_5_SubmarineCables.html,
+0,Other/misc,Generic planning units  has no specific use provided,,,
