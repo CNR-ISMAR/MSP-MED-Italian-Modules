@@ -9,7 +9,7 @@ The code in this repository is part of deliverable D29 of [MSP-MED Project] (htt
 
 - MSP-EMODNet_exporter.ipynb [view:](https://ghitub.com/CNR-ISMAR/MSP-MED-Italian-Modules/blob/main/MSP-EMODNet_exporter.ipynb)
 - MSP-Flat_data_model._exporter.ipynb [view:](https://ghitub.com/CNR-ISMAR/MSP-MED-Italian-Modules/blob/main/MSP-Flat_data_model._exporter.ipynb)
-- MSP-Exploratory_data_analysis.ipynb [view in nbviewer:](https://nbviewer.org/github/CNR-ISMAR/MSP-MED-Italian-Modules/blob/main/MSP-Exploratory_data_analysis.ipynb)
+- MSP-Exploratory_data_analysis.ipynb [view in nbviewer:](https://nbviewer.org/github/CNR-ISMAR/MSP-MED-Italian-Modules/blob/main/MSP-Exploratory_data_analysis.ipynb){:target="_blank"}
 
 ## Config files
 
