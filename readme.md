@@ -5,7 +5,7 @@
 
 The code in this repository is part of deliverable D29 of [MSP-MED Project] (https://mspmed.eu/) 
 
-## Python jupiter noteboks
+## Python jupyter noteboks
 
 - MSP-EMODNet_exporter.ipynb [view:](https://github.com/CNR-ISMAR/MSP-MED-Italian-Modules/blob/main/MSP-EMODNet_exporter.ipynb)
 - MSP-Flat_data_model._exporter.ipynb [view:](https://github.com/CNR-ISMAR/MSP-MED-Italian-Modules/blob/main/MSP-Flat_data_model._exporter.ipynb)
